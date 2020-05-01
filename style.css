@@ -1,0 +1,96 @@
+body {
+  background: black;
+}
+#BG_2 {
+  background: #ff1493;
+  width: 1000px;
+  height: 1000;
+  margin: auto;
+}
+#Header {
+  background: #708090;
+  width: 1000px;
+  height: 180px;
+}
+#Menu {
+  background: rgb(192, 24, 12);
+  width: 1000px;
+  height: 40px;
+}
+a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+#Menu ul {
+  padding: 0;
+  margin: 0;
+}
+#Menu ul li {
+  display: inline;
+  margin-left: 10px;
+  line-height: 40px;
+  border: 2px solid #140909;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: rgb(233, 44, 31);
+}
+#menu ul li:hover {
+  background: burlywood;
+}
+#Content {
+  width: 1000px;
+}
+#Student_1 {
+  background: blueviolet;
+  width: 500;
+  height: 820;
+  float: left;
+}
+h1 {
+  font-family: "Baloo Paaji 2", cursive;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 150px;
+}
+p {
+  font-family: "Baloo Paaji 2", cursive;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+#Avatar {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-image: url("Image/Student1poto.png");
+  background-size: cover;
+  border-radius: 100em;
+  border-top: 10px solid #cf2031;
+  border-right: 10px solid #0f7dc8;
+  border-bottom: 10px solid #2eb31a;
+  border-left: 10px solid #eab823;
+}
+#Student_2 {
+  background: chocolate;
+  width: 500;
+  height: 820;
+  float: left;
+}
+#Avatar2 {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-image: url("Image/Student2poto.png");
+  background-size: cover;
+  border-radius: 100em;
+  border-top: 10px solid #cf2031;
+  border-right: 10px solid #0f7dc8;
+  border-bottom: 10px solid #2eb31a;
+  border-left: 10px solid #eab823;
+}
