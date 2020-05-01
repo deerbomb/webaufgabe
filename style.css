@@ -4,7 +4,7 @@ body {
 #BG_2 {
   background: #ff1493;
   width: 1000px;
-  height: 1000;
+  height: 820px;
   margin: auto;
 }
 #Header {
@@ -41,6 +41,12 @@ a {
 }
 #Content {
   width: 1000px;
+}
+.student {
+  background: lightpink;
+  width: 1000px;
+  height: 1000px;
+  float: left;
 }
 #Student_1 {
   background: blueviolet;
